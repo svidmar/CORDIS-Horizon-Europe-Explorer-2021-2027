@@ -28,7 +28,7 @@ This lightweight tool allows you to explore links between **EU Horizon Europe pr
 Search by project acronym, organization, or project ID — and export results as needed.
 
 
-Source: Publications Office. (2022). CORDIS - EU research projects under HORIZON EUROPE (2021-2027) Data set(https://doi.org/10.2906/112117098108/20)
+Source: Publications Office. (2022). CORDIS - EU research projects under HORIZON EUROPE (2021-2027) [Data set](https://doi.org/10.2906/112117098108/20)
 
 CORDIS datasets are updated monthly.
 """)
