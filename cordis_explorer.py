@@ -149,7 +149,7 @@ if st.session_state.data_loaded:
         st.dataframe(publications_df)
 
 else:
-    st.info("Click the button in the sidebar to fetch and load the data. 👈 On mobile? Tap the **arrow on the left edge** to open the sidebar")
+    st.info("Click the button in the sidebar to fetch and load the data. 👈 On a small screen? Tap the **arrow on the top left edge** to open the sidebar")
 
 # Add spacer to push creator info down
 st.sidebar.markdown("<br><br><br><br><br><br><br><br><br><br>", unsafe_allow_html=True)
